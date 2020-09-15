@@ -1,0 +1,4 @@
+node_modules
+
+#SHOPIFY API KEYS
+.env
